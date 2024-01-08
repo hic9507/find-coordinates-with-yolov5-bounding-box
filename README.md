@@ -23,3 +23,6 @@
 
 ### 실행 화면
 ![실행화면](https://github.com/hic9507/find-coordinates-with-yolov5-bounding-box/assets/65755028/e0581c47-3498-4eef-8647-f9af09293ab2)
+
+### 결과 화면
+![결과 화면](https://github.com/hic9507/find-coordinates-with-yolov5-bounding-box/assets/65755028/24132ca5-217c-40e7-af1d-521e77c28aac)
