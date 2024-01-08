@@ -9,6 +9,10 @@
 ### 7. 해당 노란 테두리를 바탕으로 다시 테두리를 그림(contour 사용)
 ### 8. 신분증 테두리 검출
 
+### 예시 화면
+![예시](https://github.com/hic9507/find-coordinates-with-yolov5-bounding-box/assets/65755028/6362a457-119d-43d0-8b38-cf7249565012)
+
+
 ## line_detector.py
 가우시안 블러 등의 연산을 수행하고 픽셀을 순회하며 검출 및 노란 라인을 그리는 코드
 
@@ -16,3 +20,6 @@
 실제 실행하는 코드로, 객체 밖의 좌표가 검출되지 않게 하는 역할을 하며 line_detector.py가 계산한 좌표를 저장함.
 
 픽셀 이동 범위는 지정 가능함.
+
+### 실행 화면
+![실행화면](https://github.com/hic9507/find-coordinates-with-yolov5-bounding-box/assets/65755028/e0581c47-3498-4eef-8647-f9af09293ab2)
