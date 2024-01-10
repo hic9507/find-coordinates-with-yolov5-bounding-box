@@ -26,3 +26,7 @@
 
 ### 결과 화면
 ![결과 화면](https://github.com/hic9507/find-coordinates-with-yolov5-bounding-box/assets/65755028/24132ca5-217c-40e7-af1d-521e77c28aac)
+
+### 상세 시연 과정
+![상세 시연과정 1](https://github.com/hic9507/find-coordinates-with-yolov5-bounding-box/assets/65755028/90a5ce6c-a426-4713-9ae1-2449b6e84201)
+![상세 시연과정 2](https://github.com/hic9507/find-coordinates-with-yolov5-bounding-box/assets/65755028/ee06df29-d553-4f64-8b84-1bd378ab52d7)
